@@ -3,7 +3,8 @@
 
 ## Overview
 
-This is a simple iOS application built in Swift 5 that serves as an egg timer. The app allows users to select three cooking levels for their eggs: Soft, Medium, and Hard. When a level is selected, a corresponding timer starts, and a progress bar at the bottom of the screen shows the remaining time. Once the timer reaches zero, an alarm will sound, and the text on the screen will change to "DONE!". This project focuses on control flow and dictionaries as well as utilizing the Swift Timer API. 
+This iOS application, built in Swift 5, allows users to enjoy the sounds of a xylophone on their device. With seven buttons representing different musical notes, starting from "C" and ascending to "B", users can tap to produce corresponding tones.
+ 
 
 ## Features
 
